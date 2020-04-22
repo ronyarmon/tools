@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+  <b:Source>
+    <b:Tag>newton-briggs-2015-changes-in-health-in-england,-with-analysis-by-english-regions-and-areas-of-deprivation,-1990-2013:-a-systematic-analysis-for-the-global-burden-of-disease-study-2013</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Title>Changes in health in England, with analysis by English regions and areas of deprivation, 1990-2013: A systematic analysis for the Global Burden of Disease Study 2013</b:Title>
+    <b:Year>2015</b:Year>
+    <b:RefOrder>1</b:RefOrder>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>John N.</b:First>
+            <b:Last>Newton</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Adam D.M.</b:First>
+            <b:Last>Briggs</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Christopher J.L.</b:First>
+            <b:Last>Murray</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Daniel</b:First>
+            <b:Last>Dicker</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kyle J.</b:First>
+            <b:Last>Foreman</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Haidong</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mohsen</b:First>
+            <b:Last>Naghavi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mohammad H.</b:First>
+            <b:Last>Forouzanfar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Summer Lockett</b:First>
+            <b:Last>Ohno</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ryan M.</b:First>
+            <b:Last>Barber</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Theo</b:First>
+            <b:Last>Vos</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jeffrey D.</b:First>
+            <b:Last>Stanaway</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jürgen C.</b:First>
+            <b:Last>Schmidt</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andrew J.</b:First>
+            <b:Last>Hughes</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Derek F.J.</b:First>
+            <b:Last>Fay</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Russell</b:First>
+            <b:Last>Ecob</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Charis</b:First>
+            <b:Last>Gresser</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Martin</b:First>
+            <b:Last>McKee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Harry</b:First>
+            <b:Last>Rutter</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ibrahim</b:First>
+            <b:Last>Abubakar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Raghib</b:First>
+            <b:Last>Ali</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>H. Ross</b:First>
+            <b:Last>Anderson</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Amitava</b:First>
+            <b:Last>Banerjee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Derrick A.</b:First>
+            <b:Last>Bennett</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Eduardo</b:First>
+            <b:Last>Bernabé</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kamaldeep S.</b:First>
+            <b:Last>Bhui</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Stanley M.</b:First>
+            <b:Last>Biryukov</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rupert R.</b:First>
+            <b:Last>Bourne</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Carol E.G.</b:First>
+            <b:Last>Brayne</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nigel G.</b:First>
+            <b:Last>Bruce</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Traolach S.</b:First>
+            <b:Last>Brugha</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michael</b:First>
+            <b:Last>Burch</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Simon</b:First>
+            <b:Last>Capewell</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Daniel</b:First>
+            <b:Last>Casey</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rajiv</b:First>
+            <b:Last>Chowdhury</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Matthew M.</b:First>
+            <b:Last>Coates</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Cyrus</b:First>
+            <b:Last>Cooper</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Julia A.</b:First>
+            <b:Last>Critchley</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Paul I.</b:First>
+            <b:Last>Dargan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mukesh K.</b:First>
+            <b:Last>Dherani</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Paul</b:First>
+            <b:Last>Elliott</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Majid</b:First>
+            <b:Last>Ezzati</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kevin A.</b:First>
+            <b:Last>Fenton</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Maya S.</b:First>
+            <b:Last>Fraser</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Thomas</b:First>
+            <b:Last>Fürst</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Felix</b:First>
+            <b:Last>Greaves</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mark A.</b:First>
+            <b:Last>Green</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>David J.</b:First>
+            <b:Last>Gunnell</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Bernadette M.</b:First>
+            <b:Last>Hannigan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Roderick J.</b:First>
+            <b:Last>Hay</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Simon I.</b:First>
+            <b:Last>Hay</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Harry</b:First>
+            <b:Last>Hemingway</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Heidi J.</b:First>
+            <b:Last>Larson</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Katharine J.</b:First>
+            <b:Last>Looker</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Raimundas</b:First>
+            <b:Last>Lunevicius</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ronan A.</b:First>
+            <b:Last>Lyons</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Wagner</b:First>
+            <b:Last>Marcenes</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Amanda J.</b:First>
+            <b:Last>Mason-Jones</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Fiona E.</b:First>
+            <b:Last>Matthews</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Henrik</b:First>
+            <b:Last>Moller</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michele E.</b:First>
+            <b:Last>Murdoch</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Charles R.</b:First>
+            <b:Last>Newton</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Neil</b:First>
+            <b:Last>Pearce</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Frédéric B.</b:First>
+            <b:Last>Piel</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Daniel</b:First>
+            <b:Last>Pope</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kazem</b:First>
+            <b:Last>Rahimi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alina</b:First>
+            <b:Last>Rodriguez</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Peter</b:First>
+            <b:Last>Scarborough</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Austin E.</b:First>
+            <b:Last>Schumacher</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ivy</b:First>
+            <b:Last>Shiue</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Liam</b:First>
+            <b:Last>Smeeth</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alison</b:First>
+            <b:Last>Tedstone</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jonathan</b:First>
+            <b:Last>Valabhji</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hywel C.</b:First>
+            <b:Last>Williams</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Charles D.A.</b:First>
+            <b:Last>Wolfe</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Anthony D.</b:First>
+            <b:Last>Woolf</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Adrian C.J.</b:First>
+            <b:Last>Davis</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+    </b:Author>
+    <b:JournalName>The Lancet</b:JournalName>
+    <b:Pages>2257-2274</b:Pages>
+    <b:Volume>386</b:Volume>
+    <b:Issue>10010</b:Issue>
+    <b:StandardNumber>10.1016/S0140-6736(15)00195-6</b:StandardNumber>
+    <b:Publisher>Lancet Publishing Group</b:Publisher>
+    <b:Month>12</b:Month>
+    <b:Day>5</b:Day>
+  </b:Source>
+  <b:Source>
+    <b:Tag>aitken-roderick-2014-change-in-prevalence-of-chronic-kidney-disease-in-england-over-time:-comparison-of-nationally-representative-cross-sectional-surveys-from-2003-to-2010</b:Tag>
+    <b:SourceType>Misc</b:SourceType>
+    <b:Title>Change in prevalence of chronic kidney disease in England over time: Comparison of nationally representative cross-sectional surveys from 2003 to 2010</b:Title>
+    <b:Year>2014</b:Year>
+    <b:RefOrder>1</b:RefOrder>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Grant R.</b:First>
+            <b:Last>Aitken</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Paul J.</b:First>
+            <b:Last>Roderick</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Simon</b:First>
+            <b:Last>Fraser</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jennifer S.</b:First>
+            <b:Last>Mindell</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Donal</b:First>
+            <b:Last>O'Donoghue</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Julie</b:First>
+            <b:Last>Day</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Graham</b:First>
+            <b:Last>Moon</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+    </b:Author>
+    <b:PublicationTitle>BMJ Open</b:PublicationTitle>
+    <b:Pages>e005480</b:Pages>
+    <b:Volume>4</b:Volume>
+    <b:Issue>9</b:Issue>
+    <b:StandardNumber>10.1136/bmjopen-2014-005480</b:StandardNumber>
+    <b:Publisher>BMJ Publishing Group</b:Publisher>
+    <b:Month>9</b:Month>
+    <b:Day>1</b:Day>
+  </b:Source>
+  <b:Source>
+    <b:Tag>mcneely-boyko-2004-type-2-diabetes-prevalence-in-asian-americans:-results-of-a-national-health-survey</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Title>Type 2 diabetes prevalence in Asian Americans: Results of a national health survey</b:Title>
+    <b:Year>2004</b:Year>
+    <b:RefOrder>1</b:RefOrder>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Marguerite J.</b:First>
+            <b:Last>McNeely</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Edward J.</b:First>
+            <b:Last>Boyko</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+    </b:Author>
+    <b:JournalName>Diabetes Care</b:JournalName>
+    <b:Pages>66-69</b:Pages>
+    <b:Volume>27</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:StandardNumber>10.2337/diacare.27.1.66</b:StandardNumber>
+    <b:Month>1</b:Month>
+  </b:Source>
+  <b:Source>
+    <b:Tag>mainous-tanner-2014-prevalence-of-prediabetes-in-england-from-2003-to-2011:-population-based,-cross-sectional-study</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Title>Prevalence of prediabetes in England from 2003 to 2011: Population-based, cross-sectional study</b:Title>
+    <b:Year>2014</b:Year>
+    <b:RefOrder>1</b:RefOrder>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Arch G.</b:First>
+            <b:Last>Mainous</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rebecca J.</b:First>
+            <b:Last>Tanner</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Richard</b:First>
+            <b:Last>Baker</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Cilia E.</b:First>
+            <b:Last>Zayas</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Christopher A.</b:First>
+            <b:Last>Harle</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+    </b:Author>
+    <b:JournalName>BMJ Open</b:JournalName>
+    <b:Pages>e005002</b:Pages>
+    <b:Volume>4</b:Volume>
+    <b:Issue>6</b:Issue>
+    <b:StandardNumber>10.1136/bmjopen-2014-005002</b:StandardNumber>
+    <b:Publisher>BMJ Publishing Group</b:Publisher>
+    <b:Month>5</b:Month>
+    <b:Day>1</b:Day>
+  </b:Source>
+  <b:Source>
+    <b:Tag>nacul-soljak-2007-model-for-estimating-the-population-prevalence-of-chronic-obstructive-pulmonary-disease:-cross-sectional-data-from-the-health-survey-for-england</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Title>Model for estimating the population prevalence of chronic obstructive pulmonary disease: Cross sectional data from the health survey for England</b:Title>
+    <b:Year>2007</b:Year>
+    <b:RefOrder>1</b:RefOrder>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Luis C.</b:First>
+            <b:Last>Nacul</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michael</b:First>
+            <b:Last>Soljak</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tom</b:First>
+            <b:Last>Meade</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+    </b:Author>
+    <b:JournalName>Population Health Metrics</b:JournalName>
+    <b:Pages>1-8</b:Pages>
+    <b:Volume>5</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:StandardNumber>10.1186/1478-7954-5-8</b:StandardNumber>
+    <b:Publisher>BioMed Central</b:Publisher>
+    <b:Month>9</b:Month>
+    <b:Day>26</b:Day>
+  </b:Source>
+  <b:Source>
+    <b:Tag>begley-basu-2011-socioeconomic-status,-health-care-use,-and-outcomes:-persistence-of-disparities-over-time</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Title>Socioeconomic status, health care use, and outcomes: Persistence of disparities over time</b:Title>
+    <b:Year>2011</b:Year>
+    <b:RefOrder>1</b:RefOrder>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Charles E.</b:First>
+            <b:Last>Begley</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rituparna</b:First>
+            <b:Last>Basu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>David</b:First>
+            <b:Last>Lairson</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Thomas</b:First>
+            <b:Last>Reynolds</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Stephanie</b:First>
+            <b:Last>Dubinsky</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michael</b:First>
+            <b:Last>Newmark</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Forbes</b:First>
+            <b:Last>Barnwell</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Allen</b:First>
+            <b:Last>Hauser</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dale</b:First>
+            <b:Last>Hesdorffer</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+    </b:Author>
+    <b:JournalName>Epilepsia</b:JournalName>
+    <b:Pages>957-964</b:Pages>
+    <b:Volume>52</b:Volume>
+    <b:Issue>5</b:Issue>
+    <b:StandardNumber>10.1111/j.1528-1167.2010.02968.x</b:StandardNumber>
+    <b:Month>5</b:Month>
+  </b:Source>
+  <b:Source>
+    <b:Tag>wheeler-waller-2008-modeling-epilepsy-disparities-among-ethnic-groups-in-philadelphia,-pa</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Title>Modeling epilepsy disparities among ethnic groups in Philadelphia, PA</b:Title>
+    <b:Year>2008</b:Year>
+    <b:RefOrder>1</b:RefOrder>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>David C.</b:First>
+            <b:Last>Wheeler</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lance A.</b:First>
+            <b:Last>Waller</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>John O.</b:First>
+            <b:Last>Elliott</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+    </b:Author>
+    <b:JournalName>Statistics in Medicine</b:JournalName>
+    <b:Pages>4069-4085</b:Pages>
+    <b:Volume>27</b:Volume>
+    <b:Issue>20</b:Issue>
+    <b:StandardNumber>10.1002/sim.3261</b:StandardNumber>
+    <b:Month>9</b:Month>
+    <b:Day>10</b:Day>
+  </b:Source>
+  <b:Source>
+    <b:Tag>hamdy-ginby-2007-ethnic-differences-in-the-incidence-of-seizure-disorders-in-children-from-bradford,-united-kingdom</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Title>Ethnic differences in the incidence of seizure disorders in children from Bradford, United Kingdom</b:Title>
+    <b:Year>2007</b:Year>
+    <b:RefOrder>1</b:RefOrder>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Nermin Aly</b:First>
+            <b:Last>Hamdy</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Des</b:First>
+            <b:Last>Ginby</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Richard</b:First>
+            <b:Last>Feltbower</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Colin D.</b:First>
+            <b:Last>Ferrie</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+    </b:Author>
+    <b:JournalName>Epilepsia</b:JournalName>
+    <b:Pages>913-916</b:Pages>
+    <b:Volume>48</b:Volume>
+    <b:Issue>5</b:Issue>
+    <b:StandardNumber>10.1111/j.1528-1167.2007.01097.x</b:StandardNumber>
+    <b:Month>5</b:Month>
+  </b:Source>
+  <b:Source>
+    <b:Tag>steer-pickrell-2014-epilepsy-prevalence-and-socioeconomic-deprivation-in-england</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Title>Epilepsy prevalence and socioeconomic deprivation in England</b:Title>
+    <b:Year>2014</b:Year>
+    <b:RefOrder>1</b:RefOrder>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Samuel</b:First>
+            <b:Last>Steer</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>William O.</b:First>
+            <b:Last>Pickrell</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michael P.</b:First>
+            <b:Last>Kerr</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rhys H.</b:First>
+            <b:Last>Thomas</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+    </b:Author>
+    <b:JournalName>Epilepsia</b:JournalName>
+    <b:Pages>1634-1641</b:Pages>
+    <b:Volume>55</b:Volume>
+    <b:Issue>10</b:Issue>
+    <b:StandardNumber>10.1111/epi.12763</b:StandardNumber>
+    <b:Publisher>Blackwell Publishing Inc.</b:Publisher>
+    <b:Month>10</b:Month>
+    <b:Day>1</b:Day>
+  </b:Source>
+  <b:Source>
+    <b:Tag>kendrick-stuart-2015-changes-in-rates-of-recorded-depression-in-english-primary-care-2003-2013:-time-trend-analyses-of-effects-of-the-economic-recession,-and-the-gp-contract-quality-outcomes-framework-(qof)</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Title>Changes in rates of recorded depression in English primary care 2003-2013: Time trend analyses of effects of the economic recession, and the GP contract quality outcomes framework (QOF)</b:Title>
+    <b:Year>2015</b:Year>
+    <b:RefOrder>1</b:RefOrder>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Tony</b:First>
+            <b:Last>Kendrick</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Beth</b:First>
+            <b:Last>Stuart</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Colin</b:First>
+            <b:Last>Newell</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Adam W.A.</b:First>
+            <b:Last>Geraghty</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michael</b:First>
+            <b:Last>Moore</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+    </b:Author>
+    <b:JournalName>Journal of Affective Disorders</b:JournalName>
+    <b:Pages>68-78</b:Pages>
+    <b:Volume>180</b:Volume>
+    <b:StandardNumber>10.1016/j.jad.2015.03.040</b:StandardNumber>
+    <b:Publisher>Elsevier</b:Publisher>
+    <b:Month>7</b:Month>
+    <b:Day>15</b:Day>
+  </b:Source>
+  <b:Source>
+    <b:Tag>honeyford-baker-2014-estimating-smoking-prevalence-in-general-practice-using-data-from-the-quality-and-outcomes-framework-(qof)</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Title>Estimating smoking prevalence in general practice using data from the Quality and Outcomes Framework (QOF)</b:Title>
+    <b:Year>2014</b:Year>
+    <b:RefOrder>1</b:RefOrder>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Kate</b:First>
+            <b:Last>Honeyford</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Richard</b:First>
+            <b:Last>Baker</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>M. John G.</b:First>
+            <b:Last>Bankart</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>David R.</b:First>
+            <b:Last>Jones</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+    </b:Author>
+    <b:JournalName>BMJ Open</b:JournalName>
+    <b:Pages>e005217</b:Pages>
+    <b:Volume>4</b:Volume>
+    <b:Issue>7</b:Issue>
+    <b:StandardNumber>10.1136/bmjopen-2014-005217</b:StandardNumber>
+    <b:Publisher>BMJ Publishing Group</b:Publisher>
+    <b:Month>7</b:Month>
+    <b:Day>1</b:Day>
+  </b:Source>
+</b:Sources>

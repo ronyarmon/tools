@@ -1,0 +1,11 @@
+Newton JN, Briggs ADM, Murray CJL et al.(2015) Changes in health in England, with analysis by English regions and areas of deprivation, 1990-2013: A systematic analysis for the Global Burden of Disease Study 2013. The Lancet 386: 2257-2274
+Aitken GR, Roderick PJ, Fraser S et al.(2014) Change in prevalence of chronic kidney disease in England over time: Comparison of nationally representative cross-sectional surveys from 2003 to 2010. !!!MISSING: JournalName!!! 4: e005480
+McNeely MJ & Boyko EJ(2004) Type 2 diabetes prevalence in Asian Americans: Results of a national health survey. Diabetes Care 27: 66-69
+Mainous AG, Tanner RJ, Baker R et al.(2014) Prevalence of prediabetes in England from 2003 to 2011: Population-based, cross-sectional study. BMJ Open 4: e005002
+Nacul LC, Soljak M & Meade T(2007) Model for estimating the population prevalence of chronic obstructive pulmonary disease: Cross sectional data from the health survey for England. Population Health Metrics 5: 1-8
+Begley CE, Basu R, Lairson D et al.(2011) Socioeconomic status, health care use, and outcomes: Persistence of disparities over time. Epilepsia 52: 957-964
+Wheeler DC, Waller LA & Elliott JO(2008) Modeling epilepsy disparities among ethnic groups in Philadelphia, PA. Statistics in Medicine 27: 4069-4085
+Hamdy NAly, Ginby D, Feltbower R et al.(2007) Ethnic differences in the incidence of seizure disorders in children from Bradford, United Kingdom. Epilepsia 48: 913-916
+Steer S, Pickrell WO, Kerr MP et al.(2014) Epilepsy prevalence and socioeconomic deprivation in England. Epilepsia 55: 1634-1641
+Kendrick T, Stuart B, Newell C et al.(2015) Changes in rates of recorded depression in English primary care 2003-2013: Time trend analyses of effects of the economic recession, and the GP contract quality outcomes framework (QOF). Journal of Affective Disorders 180: 68-78
+Honeyford K, Baker R, Bankart MJohnG et al.(2014) Estimating smoking prevalence in general practice using data from the Quality and Outcomes Framework (QOF). BMJ Open 4: e005217
